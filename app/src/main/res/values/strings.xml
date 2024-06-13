@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">FlipFrenzy</string>
+    <string name="heading1">FlipFrenzy</string>
+    <string name="heading2">"Flip your way to the top!"</string>
+    <string name="heading3">"Start to Play !"</string>
+    <string name="play">"play"</string>
+    <string name="play1">"3X2"</string>
+    <string name="play2">"4X3"</string>
+    <string name="play3">"4X4"</string>
+    <string name="play4">"5x4"</string>
+    <string name="play5">"5X6"</string>
+    <string name="play6">"6X6"</string>
+    <string name="heading4">"Choose your level"</string>
+    <string name="help">"help"</string>
+    <string name="menu">"menu"</string>
+
+    <string name="howTo">"How to play ?"</string>
+    <string name="howToIns1">"1.The goal of the game is to find all matching pairs of cards."</string>
+    <string name="howToIns2">"2.You'll see a grid of face-down cards on the screen."</string>
+    <string name="howToIns3">"3.Tap on any card to reveal its image."</string>
+    <string name="howToIns4">"4.Tap on a second card to reveal its image as well."</string>
+    <string name="howToIns5">"5.If the two revealed cards have the same image, they stay face up, and you've found a match!"</string>
+    <string name="howToIns6">"6.If the two revealed cards have different images, they'll flip back face down after a moment, and you'll need to remember their positions."</string>
+    <string name="howToIns7">"7.Remember: Pay attention to the images on the cards and their positions. This will help you find matching pairs."</string>
+    <string name="howToIns8">"8.Continue:Keep flipping pairs of cards until all matches are found."</string>
+    <string name="howToIns9">"9.Winning:The game is won when you've successfully matched all pairs, and all cards are face up."</string>
+    <string name="howToIns10">"10.Try Again:If you want to play again, there's usually an option to restart the game."</string>
+    <string name="howToIns11">"11.Enjoy: Have fun and enjoy playing the memory matching game!"</string>
+
+    <string name="timer">"timer:"</string>
+    <string name="score">"score:"</string>
+    <string name="moves">"moves:"</string>
+    <string name="cards">"cards"</string>
+
+    <string name="scrollview">"scrollview"</string>
+    <string name="back">"back"</string>
+
+
+</resources>
